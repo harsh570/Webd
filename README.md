@@ -1,2 +1,2 @@
-# Webd
-Basic implementation of html and css.
+# Webde
+HTML+CSS to create an attractive and good looking webpage using various diiferent properties.
