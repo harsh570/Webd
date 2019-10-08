@@ -1,2 +1,2 @@
-# Webde
-HTML+CSS to create an attractive and good looking webpage using various diiferent properties.
+# Web Development
+HTML + CSS to create an attractive and good looking webpage using various diiferent properties.
